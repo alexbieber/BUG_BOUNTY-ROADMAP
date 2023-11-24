@@ -1,15 +1,30 @@
-# BUG_BOUNTY-ROADMAP
-Specially designed to be a BUG HUNTER!🔴🔴🔴🔴✔
+## REVENGEBOMBER2.0 🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+<h1 align="center">
+  <br>
+  <a href="https://github.com/AlexBieber/RevengeBomber"><img src="[https://horoshop.ua/content/images/16/kak-sdelat-chtoby-pisma-ne-popadali-v-spam-11248663734326.jpg](https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/CDS.gif)" alt="RevengeBomber"></a>
+  <br>
+  RevengeBomber2.0🔴🔴🔴🔴
+  <br>
+</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/alexbieber/RevengeBomber2.0?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/alexbieber/RevengeBomber2.0?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/alexbieber/RevengeBomber2.0?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/alexbieber/RevengeBomber2.0?color=teal&style=for-the-badge">
+</p>
+
 
 Please don't hesitate to contribute to this repo!
 
-# Bug Bounty Beginner's Roadmap
+# Bug Bounty Beginner's Roadmap 🔴🔴🔴🔴✔
 
 Hi! I'm **Ambar Singh**. I am currently Founder And CEO of MAIT and also a part time content creator. I am creating this repository for everyone to contribute as to guide the young and enthusiastic minds for starting their career in bug bounties. More content will be added regularly. Keep following. So let's get started!
 
 **_NOTE:_** The bug bounty landscape has changed since the last few years. The issues we used to find easily an year ago would not be easy now. Automation is being used rigorously and most of the "_low hanging fruits_" are being duplicated if you are out of luck. If you want to start doing bug bounty, you will have to be determined to be consistent and focused, as the competition is very high.
 
-# Introduction
+# Introduction 🔴🔴🔴🔴✔
 
 - **What is a bug?**
   - Security bug or vulnerability is “a weakness in the computational logic (e.g., code) found in software and hardware components that, when exploited, results in a negative impact to confidentiality, integrity, OR availability.
@@ -18,7 +33,7 @@ Hi! I'm **Ambar Singh**. I am currently Founder And CEO of MAIT and also a part 
 - **What is the Reward?**
   - There are all types of rewards based on the severity of the issue and the cost to fix. They may range from real money (most prevalent) to premium subscriptions (Prime/Netflix), discount coupons (for e commerce of shopping sites), gift vouchers, swags (apparels, badges, customized stationery, etc.). _Money may range from 50$ to 50,000$ and even more._
 
-# What to learn?
+# What to learn?   🔴🔴🔴🔴✔
 
 - **Technical**
   - **Computer Fundamentals**
@@ -71,7 +86,7 @@ Hi! I'm **Ambar Singh**. I am currently Founder And CEO of MAIT and also a part 
       - https://www.youtube.com/watch?v=OK_JCtrrv-c
       - https://www.youtube.com/watch?v=T8SEGXzdbYg&t=1329s
 
-# Where to learn from?
+# Where to learn from?  🔴🔴🔴🔴✔
 
 - **Books**
   - Web Application Hacker's Handbook: https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
@@ -118,11 +133,11 @@ Hi! I'm **Ambar Singh**. I am currently Founder And CEO of MAIT and also a part 
     - Spin The Hack: https://www.youtube.com/c/SpinTheHack
     - Pratik Dabhi: https://www.youtube.com/c/impratikdabhi
 
-## Join Twitter Today!
+## Join Twitter Today!   🔴🔴🔴🔴✔
 
 World class security researchers and bug bounty hunters are on Twitter. Where are you? Join Twitter now and get daily updates on new issues, vulnerabilities, zero days, exploits, and join people sharing their methodologies, resources, notes and experiences in the cyber security world!
 
-## PRACTICE! PRACTICE! and PRACTICE!
+## PRACTICE! PRACTICE! and PRACTICE!   🔴🔴🔴🔴✔
 
 - **CTF**
 
@@ -164,7 +179,7 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
   - Meta: https://www.facebook.com/whitehat
   - Google: https://about.google/appsecurity/
 
-# Bug Bounty Report Format
+# Bug Bounty Report Format   🔴🔴🔴🔴✔
 
 - **Title**
 
@@ -192,7 +207,7 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
   - What type of possible damages could be done? (avoid writing about the theoretical impact)
   - Should align with the business objective of the organization
 
-**Sample Report**
+**Sample Report for your reference**   🔴🔴🔴🔴✔
 
 ![](https://miro.medium.com/max/1400/1*7lVhULTI7ch4uMLEKVZDrA.png)
 

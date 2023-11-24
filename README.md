@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/AlexBieber/RevengeBomber"><img src="https://horoshop.ua/content/images/16/kak-sdelat-chtoby-pisma-ne-popadali-v-spam-11248663734326.jpg](https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/CDS.gif" alt="RevengeBomber"></a>
+  <a href="https://github.com/AlexBieber/RevengeBomber"><img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/CDS.gif" alt="RevengeBomber"></a>
   <br>
   RevengeBomber2.0🔴🔴🔴🔴
   <br>

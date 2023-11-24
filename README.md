@@ -222,3 +222,37 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 7. **Stay connected to the community**. Learn and contribute. There is always someone better than you in something. don't miss an opportunity to network. Join forums, go to conferences and hacking events, meet people, learn from their experiences.
 8. **Always be helpful**.
 
+
+
+
+
+
+
+## YOU CAN BUY ME A COFFEE-->  <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+## LOVE YOU 3000!🔴
+
+  
+  ### Find Me on :
+<p align="left">
+  <a href="https://github.com/alexbieber" target="_blank"><img src="https://img.shields.io/badge/Github-Alex--Bieber-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/alexbieber1234" target="_blank"><img src="https://img.shields.io/badge/IG-%40alexbieber1234-red?style=for-the-badge&logo=instagram"></a>
+</p>
+
+
+## DONATE YOUR MONEY FOR HELPLESS PEOPLE AROUND THE WORLD! LETS HELP THEM TOGETHER- LOVE YOU 3000❤❤❤❤
+<p>
+  <a href="https://www.paypal.me/alexbieber1234">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
+  </a>
+</p>
+# Donate your money and it will inspire soo many people to live their life.
+
+
+ ## THANKS!  
+   Enjoy ✔
+ ## 
+    🔴🔴🔴🔴  🔴   🔴  🔴 🔴    🔴 🔴   🔴    🔴     🔴  🔴🔴🔴      🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+        🔴      🔴🔴🔴  🔴  🔴    🔴  🔴  🔴    🔴  🔴    🔴__\         🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+        🔴      🔴   🔴 🔴🔴 🔴   🔴   🔴 🔴    🔴🔴 🔴       🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+        🔴      🔴   🔴🔴     🔴   🔴    🔴🔴    🔴     🔴 🔴🔴🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴

@@ -1,10 +1,10 @@
-## REVENGEBOMBER2.0 🔴🔴🔴🔴🔴🔴🔴🔴🔴
+# Bug Bounty Beginner's Roadmap 🔴🔴🔴🔴✔
 
 <h1 align="center">
   <br>
   <a href="https://github.com/AlexBieber/RevengeBomber"><img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/CDS.gif" alt="RevengeBomber"></a>
   <br>
-  RevengeBomber2.0🔴🔴🔴🔴
+  WRITEUPS-2.0🔴🔴🔴🔴
   <br>
 </h1>
 <p align="center">
